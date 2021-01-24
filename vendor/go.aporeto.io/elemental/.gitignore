@@ -1,0 +1,15 @@
+.DS_Store
+.tags
+*.pyc
+*.egg-info
+*/debug
+codegen
+vendor
+.idea
+cmd/elegen/elegen
+cmd/elegen/build
+*.lock
+*.cov
+artifacts
+profile.out
+dist

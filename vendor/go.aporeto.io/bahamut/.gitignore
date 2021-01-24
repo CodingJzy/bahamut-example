@@ -1,0 +1,14 @@
+testresults.xml
+.DS_Store
+.tags
+
+*.cover
+*.lock
+vendor
+
+*.cov
+.idea/*
+artifacts
+remod.dev
+.remod
+dist
